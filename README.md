@@ -1,7 +1,7 @@
 # cesargk
-Boodschappenlijst
+Boodschappenlijst 
 -Melk
 -Eieren
 -Brood
--Chips
 -Kaas
+-Pindakaas
