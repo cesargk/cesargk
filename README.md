@@ -1,7 +1,5 @@
 # cesargk
-Boodschappenlijst 
--Melk
--Eieren
--Brood
--Kaas
--Pindakaas
+Boodschappenlijst bakker 
+-Tijgerbrood
+-Casinobrood 
+-Croissants 
