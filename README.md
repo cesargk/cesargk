@@ -2,6 +2,7 @@
 Boodschappenlijst 
 -Melk
 -Eieren
--Brood
 -Kaas
 -Pindakaas
+-Zout
+-Pastasaus
